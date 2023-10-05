@@ -1,0 +1,2 @@
+Contract Address on Mumbai Testnet: 0xD2Ba5344B377416c22D1b78698C77b42CA3e016F
+Contract Address on Swisstronik Testnet: 0x409b077d89b6CBf92Ad6B6ACEC818f502B893078
